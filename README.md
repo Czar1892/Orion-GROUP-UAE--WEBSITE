@@ -114,7 +114,7 @@ If you want to add a logo image:
 
 ## License
 
-All rights reserved © 2025 Orion Corporate Service Provider
+All rights reserved © 2026 Orion Corporate Service Provider
 
 ## Support
 
