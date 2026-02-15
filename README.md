@@ -71,7 +71,7 @@ git push -u origin main
 ### Update Contact Information
 
 The contact details are currently set to:
-- **Phone**: +971 58 530 3871
+- **Phone**: +971 50 584 0771
 - **Email**: info@oriongroupuae.com
 
 To update these, search and replace across all HTML files.
